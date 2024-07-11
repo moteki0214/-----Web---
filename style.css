@@ -1,0 +1,17 @@
+.header-menu{
+    overflow: hidden;
+}
+
+.header-menu li{
+    float: left;
+    list-style: none;
+    margin: 0 30px;
+}
+
+h2{
+    padding: 10px;
+}
+
+.sentence{
+    margin: 8px 0;
+}
